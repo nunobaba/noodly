@@ -1,0 +1,16 @@
+# Libraries.
+packages/
+tmp/
+
+# Symlinks to libraries.
+web/packages
+**/packages
+
+# Dart Editor settings.
+.settings
+
+# Pub specifics lock.
+pubspec.lock
+
+# Build log
+.buildlog

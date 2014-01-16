@@ -1,0 +1,6 @@
+name: String X-Labs
+description: Various libraries on string.
+author: Thuan Hu <nunobaba@gmail.com>
+version: 0.1.0
+dev_dependencies:
+  unittest: any
